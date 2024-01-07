@@ -5,4 +5,4 @@ Following this preparatory step, a series of word overlap evaluators are utilize
 
 BERT Score: In the second technique, the BERT model performs the STS (Semantic Textual Similarity) task wherein it compares the similarity between two texts using the cosine similarity measure. The model is trained on the STSB and SICK datasets. A cosine similarity of 1 indicates that the vectors are pointing in the same direction (perfect similarity), while a similarity of 0 indicates that the vectors are orthogonal (completely dissimilar).
 
-Disclaimer: In the provided code, a regular BERT model is used. However, in the actual code, a BERT model trained on the SICK and STSB datasets is utilized for enhanced performance and relevance to the described evaluation process.
+Disclaimer: In the uploaded code, a regular BERT model is used. However, in the actual code, a BERT model trained on the SICK and STSB datasets is utilized for enhanced performance and relevance to the described evaluation process.
